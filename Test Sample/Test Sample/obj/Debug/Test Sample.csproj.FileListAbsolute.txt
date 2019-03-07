@@ -1,0 +1,10 @@
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\bin\Debug\Test Sample.exe.config
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\bin\Debug\Test Sample.exe
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\bin\Debug\Test Sample.pdb
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\obj\Debug\Test Sample.csprojAssemblyReference.cache
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\obj\Debug\Test_Sample.Form1.resources
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\obj\Debug\Test_Sample.Properties.Resources.resources
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\obj\Debug\Test Sample.csproj.GenerateResource.cache
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\obj\Debug\Test Sample.csproj.CoreCompileInputs.cache
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\obj\Debug\Test Sample.exe
+C:\Users\VP50272\source\repos\Test Sample\Test Sample\obj\Debug\Test Sample.pdb
