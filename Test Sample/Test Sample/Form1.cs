@@ -19,10 +19,10 @@ namespace Test_Sample
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (label1.Text == "Hello")
+            if (label1.Text == "Hello") 
                 label1.Text = "World";
             else
-                label1.Text = "Hello";
+                label1.Text = "Hello!";
         }
     }
 }
